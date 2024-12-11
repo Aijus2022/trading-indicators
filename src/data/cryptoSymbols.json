@@ -1,0 +1,22 @@
+[
+  { "label": "Bitcoin (BTC)", "id": "bitcoin", "value": "BTCUSDT" },
+  { "label": "Ethereum (ETH)", "id": "ethereum", "value": "ETHUSDT" },
+  { "label": "Ripple (XRP)", "id": "ripple", "value": "XRPUSDT" },
+  { "label": "Litecoin (LTC)", "id": "litecoin", "value": "LTCUSDT" },
+  { "label": "Cardano (ADA)", "id": "cardano", "value": "ADAUSDT" },
+  { "label": "Polkadot (DOT)", "id": "polkadot", "value": "DOTUSDT" },
+  { "label": "Binance Coin (BNB)", "id": "binancecoin", "value": "BNBUSDT" },
+  { "label": "Solana (SOL)", "id": "solana", "value": "SOLUSDT" },
+  { "label": "Dogecoin (DOGE)", "id": "dogecoin", "value": "DOGEUSDT" },
+  { "label": "Shiba Inu (SHIB)", "id": "shiba-inu", "value": "SHIBUSDT" },
+  { "label": "Avalanche (AVAX)", "id": "avalanche-2", "value": "AVAXUSDT" },
+  { "label": "Chainlink (LINK)", "id": "chainlink", "value": "LINKUSDT" },
+  { "label": "Stellar (XLM)", "id": "stellar", "value": "XLMUSDT" },
+  { "label": "Polygon (MATIC)", "id": "matic-network", "value": "MATICUSDT" },
+  { "label": "VeChain (VET)", "id": "vechain", "value": "VETUSDT" },
+  { "label": "Tron (TRX)", "id": "tron", "value": "TRXUSDT" },
+  { "label": "Cosmos (ATOM)", "id": "cosmos", "value": "ATOMUSDT" },
+  { "label": "FTX Token (FTT)", "id": "ftx-token", "value": "FTTUSDT" },
+  { "label": "Tezos (XTZ)", "id": "tezos", "value": "XTZUSDT" },
+  { "label": "THETA (THETA)", "id": "theta-token", "value": "THETAUSDT" }
+]

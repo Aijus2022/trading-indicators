@@ -1,0 +1,138 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa; /* Light gray background */
+  color: hsl(0, 20%, 98%); /* Default text color */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensures the body fills the viewport height */
+}
+
+h1, h2, h3 {
+  color: #007bff; /* Bootstrap Primary Color */
+  margin-top: 10px;
+}
+
+p {
+  color: #555; /* Subtle text color */
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+/* Links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons */
+button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker Primary Color */
+  transform: scale(1.05);
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #fff; /* White table background */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #e9ecef; /* Bootstrap Light Gray */
+  color: #333;
+  font-weight: bold;
+}
+
+td {
+  color: #555; /* Subtle text color */
+}
+
+/* Responsive Tables */
+@media (max-width: 768px) {
+  table {
+    font-size: 14px;
+  }
+
+  th, td {
+    padding: 8px;
+  }
+}
+
+/* Navbar */
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* Cards */
+.card {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  font-weight: bold;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.text-danger {
+  color: #dc3545 !important;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+.mt-4 {
+  margin-top: 1.5rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.mt-auto {
+  margin-top: auto !important;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+
